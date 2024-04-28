@@ -1,4 +1,4 @@
-<h2>FAST API & SQL MODEL</h2>
+<h2>POETRY FASTAPI & SQL MODEL</h2>
 <br>
 https://fastapi.tiangolo.com/tutorial/response-model/
 <br>
